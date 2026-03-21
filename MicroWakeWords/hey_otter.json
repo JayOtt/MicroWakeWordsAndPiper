@@ -1,0 +1,14 @@
+{
+  "type": "micro_wake_word",
+  "version": 2,
+  "name": "hey_otter",
+  "description": "Custom wake word: hey otter",
+  "author": "Jay",
+  "license": "unknown",
+  "files": [
+    {
+      "type": "tflite",
+      "path": "hey_otter.tflite"
+    }
+  ]
+}
